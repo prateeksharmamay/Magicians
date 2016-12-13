@@ -4,7 +4,7 @@
 https://www.youtube.com/watch?v=E25HheJmLow&feature=youtu.be
 
 # Appreciation by our guests:<br />
-![alt Appreciation Image]( Magicians/202 Project Demo.PNG?raw=true "Appreciation Image")
+![alt Appreciation Image]( /Magicians/202 Project Demo.PNG?raw=true "Appreciation Image")
 
 # Team Magicians
 
