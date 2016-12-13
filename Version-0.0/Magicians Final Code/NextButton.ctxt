@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=NextButton
+comment1.params=
+comment1.target=NextButton()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ isPressed()
+comment4.params=pressedOrNot
+comment4.target=void\ setPressed(boolean)
+numComments=5

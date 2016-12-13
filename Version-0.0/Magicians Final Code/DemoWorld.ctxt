@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=DemoWorld
+comment0.text=\n\ Write\ a\ description\ of\ class\ DemoWorld\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=DemoWorld()
+comment2.params=
+comment2.target=DemoWorld\ getInstance()
+numComments=3
